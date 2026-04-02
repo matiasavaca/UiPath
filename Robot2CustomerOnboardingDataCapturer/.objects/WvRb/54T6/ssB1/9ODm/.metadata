@@ -1,0 +1,14 @@
+﻿{
+  "Name": "California(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "9ODmgbQUEU2Vcsz_3MNPuA",
+  "Reference": "1FnCO6VHgUqrzApz01NR4A/9ODmgbQUEU2Vcsz_3MNPuA",
+  "ParentRef": "1FnCO6VHgUqrzApz01NR4A/ssB1m7-4L0KYAE97BSJkJg",
+  "Created": "2026-03-14T05:26:31.2848563Z",
+  "Updated": "2026-03-14T05:26:31.2848563Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

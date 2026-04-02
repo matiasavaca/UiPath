@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="5R0GTGmdkECnbqjaDLemsQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" Selector="&lt;html app='msedge.exe' title='Tomorrow&amp;apos;s weather forecast in madrid in degrees celsius - Buscar con Google' /&gt;" Url="google.com" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge CRM",
+  "Type": "App",
+  "Id": "_o5dHvjjXECRcBBc4erlrA",
+  "Reference": "1FnCO6VHgUqrzApz01NR4A/_o5dHvjjXECRcBBc4erlrA",
+  "Created": "2026-03-07T07:38:38.5828705Z",
+  "Updated": "2026-03-07T07:38:38.5828705Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

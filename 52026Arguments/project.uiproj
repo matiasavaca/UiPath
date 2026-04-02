@@ -1,0 +1,6 @@
+{
+  "Name": "52026Arguments",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

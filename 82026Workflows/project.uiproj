@@ -1,0 +1,6 @@
+{
+  "Name": "82026Workflows",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

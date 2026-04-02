@@ -1,0 +1,17 @@
+﻿{
+  "Name": "EIN",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "daEDoF9QCk2t-SERX2P22A",
+  "Reference": "Khs3wBTk80eD4X__s5N5zw/daEDoF9QCk2t-SERX2P22A",
+  "ParentRef": "Khs3wBTk80eD4X__s5N5zw/h3lIU3Kdr0-NPTlXMx_5BQ",
+  "Created": "2026-03-14T22:57:27.5631873Z",
+  "Updated": "2026-03-15T00:37:10.5300809Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

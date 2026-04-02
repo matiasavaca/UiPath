@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Buscar con Google",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "7f1tDrGpP0Ssp34K9PraIA",
+  "Reference": "jcfn3vXac0SmofhmwW_cAQ/7f1tDrGpP0Ssp34K9PraIA",
+  "ParentRef": "jcfn3vXac0SmofhmwW_cAQ/oV2c99uouUWVC9uJg6b6jQ",
+  "Created": "2026-03-02T06:43:33.9061859Z",
+  "Updated": "2026-03-02T06:43:33.9061859Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

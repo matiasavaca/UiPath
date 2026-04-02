@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Nk6uTSSM-kyRjHcXzHNfeA" Reference="xTch7hS9YEuXYWViWzeMyg/Cnm7ypntN06hWItmL8HVFg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="9117e24d-1f69-448a-b99e-4af7b0f7aa02" CvTextArea="309, 215, 20, 14" CvTextArgument="JA" CvType="Text" DesignTimeRectangle="269, 198, 100, 50" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='JA' tag='SPAN' /&gt;" Guid="df5165be-aef3-4940-ab4e-09bf4ebcb82f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1865d4b829f92fd48b2cb1cfa4dec94f.png" xmlns="">0KveYsZBnDUu_rpVMJq8-uw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

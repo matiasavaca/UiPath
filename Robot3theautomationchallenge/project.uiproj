@@ -1,0 +1,6 @@
+{
+  "Name": "Robot 3 the automation challenge",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

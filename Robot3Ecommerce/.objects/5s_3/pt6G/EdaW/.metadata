@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge In Her Wake  Books to Scrape - Sandbox",
+  "Type": "Screen",
+  "Id": "EdaW17s2G0u7J9qQ2p9eEA",
+  "Reference": "kHIA5gcQWE2j6FnqdLCt1A/EdaW17s2G0u7J9qQ2p9eEA",
+  "ParentRef": "kHIA5gcQWE2j6FnqdLCt1A/pt6GMJLOnE-jirRkTQ_t2g",
+  "Created": "2026-03-20T05:30:49.5619789Z",
+  "Updated": "2026-03-20T05:30:49.5619789Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

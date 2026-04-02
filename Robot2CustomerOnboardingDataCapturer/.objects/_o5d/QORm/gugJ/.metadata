@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge CRM",
+  "Type": "Screen",
+  "Id": "gugJRpuhTU-uKb5e2hf1Bg",
+  "Reference": "1FnCO6VHgUqrzApz01NR4A/gugJRpuhTU-uKb5e2hf1Bg",
+  "ParentRef": "1FnCO6VHgUqrzApz01NR4A/QORmX7E7G0W0w7qYsQdNbQ",
+  "Created": "2026-03-07T07:38:39.602713Z",
+  "Updated": "2026-03-07T07:38:39.602713Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

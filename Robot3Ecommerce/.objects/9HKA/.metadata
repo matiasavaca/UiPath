@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge All products  Books to Scrape - Sandbox(1)",
+  "Type": "App",
+  "Id": "9HKANEj6Q0K5INWq5-TOLQ",
+  "Reference": "kHIA5gcQWE2j6FnqdLCt1A/9HKANEj6Q0K5INWq5-TOLQ",
+  "Created": "2026-03-22T05:31:44.4881103Z",
+  "Updated": "2026-03-22T05:31:44.4881103Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

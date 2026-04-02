@@ -1,0 +1,17 @@
+﻿{
+  "Name": "add customer button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "sOB5_4PqXka0UJr1JwEo0Q",
+  "Reference": "1FnCO6VHgUqrzApz01NR4A/sOB5_4PqXka0UJr1JwEo0Q",
+  "ParentRef": "1FnCO6VHgUqrzApz01NR4A/ssB1m7-4L0KYAE97BSJkJg",
+  "Created": "2026-03-10T08:56:44.0764094Z",
+  "Updated": "2026-03-14T07:15:12.901108Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

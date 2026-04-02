@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hA2E4eyoVkKaXsPfQMcOHw" Reference="Khs3wBTk80eD4X__s5N5zw/xDaA2FwHV0OmS1Y2gPDseg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="2aab1707-e8f2-4d28-a558-e4106091b797" CvElementArea="570, 260, 26, 25" CvType="CheckBox" DesignTimeRectangle="570, 260, 25, 25" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='presentation' tag='BUTTON' /&gt;" Guid="1512a44c-1c94-4101-a1dd-0341b2647802" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The Automation Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="515, 202, 349, 22" FuzzySelectorArgument="&lt;webctrl class='content' type='' tag='DIV' aaname=' Get through this reCAPTCHA to continue' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Get through this reCAPTCHA to continue' /&gt;" Guid="9442cc58-2c27-47c6-822c-a479c7feaced" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3f9b2e6a54beda0c26717e0072ce7ea1.jpg" xmlns="">0PbHHA6NLekGAGm0XncLVaw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

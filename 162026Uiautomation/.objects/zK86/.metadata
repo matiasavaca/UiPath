@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Automation Developer Associate Training (v2024.10) Course  UiPath Academy",
+  "Type": "App",
+  "Id": "zK86H5In5E2uItJvEiH3tg",
+  "Reference": "xTch7hS9YEuXYWViWzeMyg/zK86H5In5E2uItJvEiH3tg",
+  "Created": "2026-01-11T23:40:58.8952249Z",
+  "Updated": "2026-01-11T23:40:58.8952249Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

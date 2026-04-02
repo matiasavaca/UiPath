@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FbwHf9zTH0KohpwF-OGCTA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="d212f2ab-e576-41f3-9331-05f190caf2b6" CvElementArea="151, 119, 75, 23" CvTextArea="167, 125, 42, 13" CvTextArgument="Aceptar" CvType="Button" DesignTimeRectangle="151, 119, 75, 23" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='2' title='Aceptar' /&gt;" Guid="5dd24aea-ad62-47b0-bbbf-d93b6c6ed6ea" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='#32770' title='Success' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b9621f7b4bd46fa508067fc04fd445db.jpg" xmlns="">0vxwh1bhKsUmqS58uPdbEwQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

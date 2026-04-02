@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge The Automation Challenge",
+  "Type": "App",
+  "Id": "F8HO0sVhBUyZLS8CMdESzg",
+  "Reference": "Khs3wBTk80eD4X__s5N5zw/F8HO0sVhBUyZLS8CMdESzg",
+  "Created": "2026-03-14T22:50:58.0995848Z",
+  "Updated": "2026-03-14T22:50:58.0995848Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'RO'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "FWnXTZKYdk-PzN4KQtai4w",
+  "Reference": "xTch7hS9YEuXYWViWzeMyg/FWnXTZKYdk-PzN4KQtai4w",
+  "ParentRef": "xTch7hS9YEuXYWViWzeMyg/WcavEBYgKEO4ACH2LkWsLg",
+  "Created": "2026-01-12T00:09:48.1587375Z",
+  "Updated": "2026-01-12T00:09:48.1587375Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

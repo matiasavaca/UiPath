@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Sin título Bloc de notas",
+  "Type": "App",
+  "Id": "wdA7r31-Dk2B2clLBUTWZA",
+  "Reference": "NufYEtERIUOaQZ33v9N4EQ/wdA7r31-Dk2B2clLBUTWZA",
+  "Created": "2026-02-27T10:35:38.4852017Z",
+  "Updated": "2026-02-27T10:35:38.4852017Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

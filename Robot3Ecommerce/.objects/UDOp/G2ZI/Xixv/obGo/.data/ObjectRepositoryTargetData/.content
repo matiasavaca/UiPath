@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dVF0083N7keIxuHtJPKwYw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="books.toscrape.com/index.html" CVScreenId="7f27a96e-f27c-477f-a70d-defc55825a6e" CvElementArea="1220, 648, 62, 35" CvTextArea="1236, 659, 29, 13" CvTextArgument="next" CvType="Button" DesignTimeRectangle="1222, 650, 57, 32" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='next' tag='A' /&gt;" Guid="c8530dc5-a34b-4459-85d0-f13310389b67" ScopeSelectorArgument="&lt;html app='msedge.exe' title='All products | Books to Scrape - Sandbox' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7f27a96e-f27c-477f-a70d-defc55825a6e" DesignTimeRectangle="768, 652, 79, 16" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl class='current' matching:class='fuzzy' fuzzylevel:class='0.0' tag='LI' type='' check:innerText='Page 1 of 50' /&gt;" Guid="f418f66c-4b6c-45c3-97ac-1f1b47c0a463" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="42fc49ae6bbcf3797d75b656d9d33fec.jpg" xmlns="">0sSLqOa_CmUuormtdpG0oLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

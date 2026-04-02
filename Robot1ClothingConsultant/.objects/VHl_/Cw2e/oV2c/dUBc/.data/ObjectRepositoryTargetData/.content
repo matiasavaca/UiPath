@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cEsCz0EfUkaLWv3a83nglQ" Reference="jcfn3vXac0SmofhmwW_cAQ/dUBcLZyl2UeboEVH127zew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="8c2ad9f0-027d-4a8b-978b-a173e57808f9" CvType="AnyWordGroup" DesignTimeRectangle="252, 468, 46, 54" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' /&gt;" Guid="64f87657-a010-4b50-b1b1-c575f201df31" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Tomorrow&amp;apos;s weather forecast in tandil in degrees celsius - Buscar con Google' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8c2ad9f0-027d-4a8b-978b-a173e57808f9" CvTextArea="721, 513, 54, 13" CvTextArgument="Soleado" CvType="Text" DesignTimeRectangle="722, 512, 53, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_dc' tag='SPAN' type='' class='' aaname='Soleado' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Soleado' /&gt;" Guid="bc45a8d5-03b8-4612-945b-7d5ba6886a83" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="829a8a501f561f281d90ca8a277da902.jpg" xmlns="">05h-iSWdFcE2nYfKIoFzORA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge All products  Books to Scrape - Sandbox",
+  "Type": "Screen",
+  "Id": "M36WOt8YDUGs_9WqXPMIag",
+  "Reference": "kHIA5gcQWE2j6FnqdLCt1A/M36WOt8YDUGs_9WqXPMIag",
+  "ParentRef": "kHIA5gcQWE2j6FnqdLCt1A/G2ZIhM3PUUmEl8uXybgpnA",
+  "Created": "2026-03-16T01:55:30.2338028Z",
+  "Updated": "2026-03-16T01:55:30.2338028Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "Robot 1 Clothing Consultant",
+  "ProjectType": "Process",
+  "Description": "Recomends what cloth to use depending on the weather of the place\r\n",
+  "MainFile": "Main.xaml"
+}

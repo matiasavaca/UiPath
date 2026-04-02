@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RE00aQo0hESKligVjahUrA" Reference="1FnCO6VHgUqrzApz01NR4A/XZKUxrhFHEGjki3RbSOHAg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="74c15333-0031-4fe8-bd31-2da977ab61c6" CvElementArea="216, 186, 145, 28" CvType="InputBox" DesignTimeRectangle="216, 187, 144, 27" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd cls='TkChild' idx='23' /&gt;" Guid="ecf5df0c-18ae-4a1d-b094-f3ed5c7a6669" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='TkTopLevel' title='The Automation Challenge | CRM App' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="74c15333-0031-4fe8-bd31-2da977ab61c6" CvTextArea="12, 193, 24, 16" CvTextArgument="City" CvType="Text" DesignTimeRectangle="10, 187, 29, 27" FullSelectorArgument="&lt;wnd cls='TkChild' idx='24' /&gt;" Guid="cd20db14-a550-4ce1-abec-c0970ac8bf5a" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b5d6ca1921adabcf6075a9d29e56a23a.jpg" xmlns="">0C9WaUXQWU0isjnvPKDZZYQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

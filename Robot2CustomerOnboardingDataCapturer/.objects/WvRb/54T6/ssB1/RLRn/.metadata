@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Refresh table button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "RLRn6-QIYUSLB65d8QfuBw",
+  "Reference": "1FnCO6VHgUqrzApz01NR4A/RLRn6-QIYUSLB65d8QfuBw",
+  "ParentRef": "1FnCO6VHgUqrzApz01NR4A/ssB1m7-4L0KYAE97BSJkJg",
+  "Created": "2026-03-09T08:57:50.3986959Z",
+  "Updated": "2026-03-14T07:15:03.3222555Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
