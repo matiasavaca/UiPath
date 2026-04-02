@@ -1,27 +1,8 @@
-# UiPath user-specific files
-.project.json.user
-
-# Logs
+.storage/
+.settings/
+.local/
+.logs/
+.history/
 *.log
-
-# Temporary files
-*.tmp
-
-# NuGet packages
-.nuget/
-packages/
-
-# Build folders
-bin/
-obj/
-
-# Visual Studio / VS Code
-.vs/
-.vscode/
-
-# Windows
-Thumbs.db
-Desktop.ini
-
-# Mac
-.DS_Store
+thumbs.db
+desktop.ini
